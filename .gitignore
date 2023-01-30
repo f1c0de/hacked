@@ -1,5 +1,9 @@
-need_file.txt
-sometrash.txt
 inner2.html
+sometrash.txt
 trash.txt
+need_file.txt
 trash2.txt
+.idea/
+__pycache__/
+venv/
+env/
